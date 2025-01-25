@@ -1,5 +1,8 @@
 # Image Binarization using Moving Average Adaptive Thresholding
 
+![binary_image](https://github.com/user-attachments/assets/1969652a-15be-4ad4-8a2c-0cf6c76c65fc)
+![img1](https://github.com/user-attachments/assets/f5beb509-4394-47dc-ba5e-49fb40d64ec2)
+
 This MATLAB script implements an adaptive thresholding technique for image binarization using a moving average filter. This approach helps to deal with images that have uneven lighting or varying background intensities.
 
 ## Overview
